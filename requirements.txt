@@ -1,0 +1,10 @@
+requests
+tenacity
+ratelimit
+apscheduler
+duckdb
+pandas
+aiohttp
+dotenv
+streamlit
+streamlit-aggrid
