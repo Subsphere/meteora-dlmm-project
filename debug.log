@@ -1,0 +1,5 @@
+Starting server at http://0.0.0.0:8080
+Reading DB from: ./meteora_dlmm_time_series.duckdb
+Querying DB at: ./meteora_dlmm_time_series.duckdb
+DEBUG: Total rows in pair_history: 2200
+DEBUG: Found 10 opportunities
